@@ -1,6 +1,6 @@
-# SQL & Advanced Database Management Systems - WBSU
+# SQL & Advanced Database Management Systems
 
-A dedicated repository for SQL assignments and advanced database management coursework from the **Master of Science in Computer Science** program at **West Bengal State University (WBSU)**.
+A dedicated repository for SQL and advanced database management coursework.
 
 ## 📚 Overview
 
